@@ -1,5 +1,4 @@
 # Default ignored files
-/.idea/workspace.xml
 /mq-server/mq-server.iml
 /mq-demo/mq-demo.iml
 /mq-common/mq-common.iml
